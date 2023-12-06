@@ -1,4 +1,4 @@
-                                                                    Hi I'm Saifulla 👋
+##                                                                    Hi I'm Saifulla 👋
 
 I'm a passionate Physical Design Engineer diving deep into the fascinating world of Digital ASIC Design. You know what gets me excited? Solving complex design puzzles! I'm the go-to person for the toughest projects because I thrive on discovering fresh perspectives and refusing to back down until I crack the code.
 
@@ -7,7 +7,9 @@ While I geek out with the latest technology and tools, what truly lights me up i
 My sweet spot? ASIC design, Timing Analysis (STA), Physical Design, and Logic Synthesis.
 
 🔭 Right now, I'm neck-deep in ASIC Design, juggling Verilog, SystemVerilog, STA, and PnR intricacies.
+
 💬 Got burning questions about ASIC Design? I'm your person for all things Verilog, VHDL, STA, or PnR.
+
 💼 Whether you need guidance or have a cool project brewing, count me in! Plus, I'm on the lookout for new opportunities, eager to bring my expertise to the table.
 Give me a shout-out—I'm all ears and geared up to make a positive impact!
 
