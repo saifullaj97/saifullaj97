@@ -1,4 +1,4 @@
-##                                                                                             Hi I'm Saifulla 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Hi+i'm+Saifulla" alt="Typing SVG" /></a>
 
 I'm a passionate Physical Design Engineer diving deep into the fascinating world of Digital ASIC Design. You know what gets me excited? Solving complex design puzzles! I'm the go-to person for the toughest projects because I thrive on discovering fresh perspectives and refusing to back down until I crack the code.
 
