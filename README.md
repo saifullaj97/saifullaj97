@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DA72B&random=false&width=435&lines=%20%20%20%20%20%20Hi+there,+i'm+Saifulla" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=3DA72B&random=false&width=435&lines=%20%20%20%20%20%20Hi+There!;+I'm+Saifulla!" alt="Typing SVG" /></a>
 I'm a passionate Physical Design Engineer diving deep into the fascinating world of Digital ASIC Design. You know what gets me excited? Solving complex design puzzles! I'm the go-to person for the toughest projects because I thrive on discovering fresh perspectives and refusing to back down until I crack the code.
 
 While I geek out with the latest technology and tools, what truly lights me up is people! Learning from seasoned Engineers is like hitting the jackpot for me. My main aim? Working shoulder to shoulder with a team to consistently achieve greatness while soaking up every bit of knowledge in Physical Design.
