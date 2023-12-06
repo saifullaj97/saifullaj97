@@ -13,7 +13,7 @@ My sweet spot? ASIC design, Timing Analysis (STA), Physical Design, and Logic Sy
 💼 Whether you need guidance or have a cool project brewing, count me in! Plus, I'm on the lookout for new opportunities, eager to bring my expertise to the table.
 Give me a shout-out—I'm all ears and geared up to make a positive impact!
 <div align="center">
-  <a href=mailto"saifullaj78@gmail.com">
+  <a href="mailto:saifullaj78@gmail.com">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
     <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
