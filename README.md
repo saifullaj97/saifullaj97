@@ -8,7 +8,7 @@ My sweet spot? ASIC design, Timing Analysis (STA), Physical Design, and Logic Sy
 
 🔭 Right now, I'm neck-deep in ASIC Design, juggling Verilog, SystemVerilog, STA, and PnR intricacies.       
 
-💬 Got burning questions about ASIC Design? I'm your person for all things Verilog, VHDL, STA, or PnR.
+💬 Got burning questions about ASIC Design? I'm your person for all things Verilog, Logic Synthesis, STA, or PnR.
 
 💼 Whether you need guidance or have a cool project brewing, count me in! Plus, I'm on the lookout for new opportunities, eager to bring my expertise to the table.
 Give me a shout-out—I'm all ears and geared up to make a positive impact!
